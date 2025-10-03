@@ -88,7 +88,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/roshan-vivek)  
 - 📧 [Email](mailto:rrv4.personal@gmail.com)  
-- 📱 WhatsApp (India): +91 6383678453  
+- 📱 Phone: +44 7990260106
 
 ---
 
