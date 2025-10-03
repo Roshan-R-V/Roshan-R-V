@@ -1,69 +1,95 @@
-# Hi there 👋  
-I’m **Roshan R V** (GitHub: @Roshan-R-V)  
-Software engineer / Developer passionate about building impactful applications.
+# 👋 Hi, I’m Roshan R V  
+
+🎓 MSc Software Engineering @ University of Leicester (UK)  
+💻 Java Full-Stack Developer | FinTech Enthusiast | Cloud & DevOps Explorer  
+⚡ Passionate about building scalable apps that combine **clean architecture, real-world banking/trading knowledge, and modern cloud infrastructure**.  
 
 ---
 
-## About Me
+## 🚀 About Me  
 
-- 🔭 I’m currently working on web applications and open-source projects  
-- 🌱 I’m learning new technologies & improving my skills in JS, React, Node.js, etc.  
-- 👯 I’m open to collaborating on meaningful projects  
-- 💬 Ask me about anything related to software development, especially front-end or full-stack  
-- 📫 You can reach me via LinkedIn: [in/roshan-vivek](https://www.linkedin.com/in/roshan-vivek)
+- 🔭 Currently building:  
+  - **Banking Microservices App** → Account, Transaction & Ledger services with Spring Boot, MongoDB & JWT  
+  - **Trading System Prototype** → exploring FX concepts, low-latency APIs, and real-time order books  
 
----
-
-## 🛠️ Skills & Technologies
-
-| Front-End        | Back-End       | Tools & Other |
-|------------------|----------------|----------------|
-| JavaScript, React | Node.js, Express | Git, GitHub, REST APIs |
-| HTML, CSS, SASS   | MongoDB, SQL     | VS Code, Postman, Webpack |
+- 🌱 Exploring **FinTech systems, Trading APIs, Cloud Native apps (Kubernetes, Docker, AWS), and Microsoft Power Platform**  
+- 📊 Strong passion for **mathematics & problem solving** (98% in 12th Math, 💯 in logic challenges)  
+- ⚙️ Mechanical engineering background, still obsessed with **automobiles & DIY projects (future custom gaming PC 🖥️🚗)**  
+- 🗣️ Experienced in **supporting production issues, stakeholder communication, and client-facing SAP ABAP solutions**  
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Tech Stack  
 
-Here are a few repositories I’m proud of:
+**Languages**  
+`Java 17/21` · `JavaScript (ES6+)` · `TypeScript` · `Python (basics)` · `SQL` · `Groovy` · `ABAP`
 
-| Name | Description | Tech Stack |
-|------|-------------|------------|
-| **petitions-platform** | An online petition platform where users can create, sign, and track petitions | JavaScript, Node.js, Express |
-| **shop-for-home** | E-commerce / home goods shop front | CSS, HTML, JavaScript |
-| **react-portfolio** | My personal portfolio built using React | React, JS, CSS |
-| **coffee-maker** | (Forked) A small project about coffee maker simulation | JS / Web |
+**Backend & APIs**  
+`Spring Boot 3.x` · `REST APIs` · `JWT/OAuth2` · `Hibernate/JPA` · `JDBC` · `Stripe API`  
 
-Feel free to explore all my repos on my profile 🔎
+**Frontend**  
+`React 18+` · `Angular` · `HTML5` · `CSS3` · `Tailwind`  
 
----
+**Databases**  
+`PostgreSQL` · `MongoDB` · `MySQL`  
 
-## 📈 GitHub Stats
+**Cloud & DevOps**  
+`AWS (EC2, S3)` · `MicroK8s` · `MicroStack` · `Docker` · `GitLab CI/CD` · `GitHub Actions`  
 
-(You can insert GitHub stats here using a README stats card, e.g. from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
-
----
-
-## 🤝 Contributing
-
-I welcome contributions, suggestions, and improvements. If you see something you’d like to improve or a feature you’d like to add:
-
-1. Fork the repository  
-2. Create a feature branch (`git checkout -b feature/YourFeature`)  
-3. Commit your changes (`git commit -m "Add some feature"`)  
-4. Push to the branch (`git push origin feature/YourFeature`)  
-5. Open a Pull Request  
-
-Please make sure your code follows the existing style, includes appropriate documentation, and passes existing tests (if any).
+**Other Tools**  
+`Power BI` · `Power Apps` · `Power Automate` · `PlantUML` · `Draw.io`  
 
 ---
 
-## 📄 License
+## 📂 Featured Projects  
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+### 💳 **Banking Microservices Application** *(FinTech Showcase)*  
+- **Services**: Account, Transaction, Ledger  
+- **Features**: Consistency with database, transaction validation (double spending prevention), role-based access, async events with WebSockets  
+- **Tech**: Spring Boot, MongoDB, JWT, Docker, Kubernetes  
 
 ---
 
-Thank you for visiting!  
-If you like any of my work or find it useful, feel free to ⭐ the repo, fork, or drop me a message.  
-Let’s build something great together 💡  
+### 📈 **Trading System Prototype (FX)** *(in progress)*  
+- Exploring **Foreign Exchange (FX) concepts**  
+- Order book design, low-latency processing, real-time streaming  
+- Focused on **real-world trading workflows**  
+
+---
+
+### ✅ **Integrated Task Manager & Scheduler App** *(MSc Dissertation Project)*  
+- Cross-platform: Web + Mobile (React / React Native)  
+- **Features**: Kanban + Calendar + List views, Google/Outlook calendar sync, offline mode, push notifications  
+- **Backend**: Spring Boot + MongoDB + WebSockets  
+
+---
+
+### 📝 **Petitions Platform**  
+- Users can create, sign & track petitions  
+- Built with **Spring Boot + React**, JWT authentication, email verification  
+
+---
+
+### 🏪 **ShopForHome E-Commerce**  
+- Full-stack Angular + Java Spring Boot + PostgreSQL project  
+- Features: Product catalog, shopping cart, order processing  
+
+---
+
+## 📊 GitHub Stats  
+
+![Roshan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Roshan-R-V&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-R-V&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect with Me  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/roshan-vivek)  
+- 📧 [Email](mailto:rrv4.personal@gmail.com)  
+- 📱 WhatsApp (India): +91 6383678453  
+
+---
+
+⭐️ If you find my projects interesting, don’t forget to **star** them — it helps me know what people enjoy!  
